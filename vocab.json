@@ -1,0 +1,2578 @@
+[
+  {
+    "lesson": 1,
+    "no": 1,
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "vi": "xin chào",
+    "en": "hello"
+  },
+  {
+    "lesson": 1,
+    "no": 2,
+    "chinese": "大家",
+    "pinyin": "dàjiā",
+    "vi": "mọi người",
+    "en": "everyone"
+  },
+  {
+    "lesson": 1,
+    "no": 3,
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "vi": "tốt; khỏe",
+    "en": "good; well"
+  },
+  {
+    "lesson": 1,
+    "no": 4,
+    "chinese": "学生",
+    "pinyin": "xuésheng",
+    "vi": "học sinh",
+    "en": "student"
+  },
+  {
+    "lesson": 1,
+    "no": 5,
+    "chinese": "们",
+    "pinyin": "men",
+    "vi": "hậu tố chỉ số nhiều",
+    "en": "plural suffix"
+  },
+  {
+    "lesson": 1,
+    "no": 6,
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "vi": "giáo viên",
+    "en": "teacher"
+  },
+  {
+    "lesson": 1,
+    "no": 7,
+    "chinese": "您",
+    "pinyin": "nín",
+    "vi": "ngài; bạn/ông/bà (lịch sự)",
+    "en": "you (polite)"
+  },
+  {
+    "lesson": 1,
+    "no": 8,
+    "chinese": "你们",
+    "pinyin": "nǐmen",
+    "vi": "các bạn",
+    "en": "you (plural)"
+  },
+  {
+    "lesson": 1,
+    "no": 9,
+    "chinese": "谢谢",
+    "pinyin": "xièxie",
+    "vi": "cảm ơn",
+    "en": "thank you"
+  },
+  {
+    "lesson": 1,
+    "no": 10,
+    "chinese": "不客气",
+    "pinyin": "bú kèqi",
+    "vi": "không có gì",
+    "en": "you're welcome"
+  },
+  {
+    "lesson": 1,
+    "no": 11,
+    "chinese": "同学",
+    "pinyin": "tóngxué",
+    "vi": "bạn học",
+    "en": "classmate"
+  },
+  {
+    "lesson": 1,
+    "no": 12,
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "vi": "tạm biệt",
+    "en": "goodbye"
+  },
+  {
+    "lesson": 2,
+    "no": 1,
+    "chinese": "请问",
+    "pinyin": "qǐngwèn",
+    "vi": "xin hỏi",
+    "en": "excuse me; may I ask"
+  },
+  {
+    "lesson": 2,
+    "no": 2,
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "vi": "bạn",
+    "en": "you"
+  },
+  {
+    "lesson": 2,
+    "no": 3,
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "vi": "tên là; gọi",
+    "en": "to be called; to call"
+  },
+  {
+    "lesson": 2,
+    "no": 4,
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "vi": "gì; cái gì",
+    "en": "what"
+  },
+  {
+    "lesson": 2,
+    "no": 5,
+    "chinese": "名字",
+    "pinyin": "míngzi",
+    "vi": "tên",
+    "en": "name"
+  },
+  {
+    "lesson": 2,
+    "no": 6,
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "vi": "tôi; mình",
+    "en": "I; me"
+  },
+  {
+    "lesson": 2,
+    "no": 7,
+    "chinese": "不",
+    "pinyin": "bù",
+    "vi": "không",
+    "en": "not; no"
+  },
+  {
+    "lesson": 2,
+    "no": 8,
+    "chinese": "是",
+    "pinyin": "shì",
+    "vi": "là",
+    "en": "to be; is/am/are"
+  },
+  {
+    "lesson": 2,
+    "no": 9,
+    "chinese": "对不起",
+    "pinyin": "duìbuqǐ",
+    "vi": "xin lỗi",
+    "en": "sorry"
+  },
+  {
+    "lesson": 2,
+    "no": 10,
+    "chinese": "没关系",
+    "pinyin": "méi guānxi",
+    "vi": "không sao",
+    "en": "it doesn't matter; no problem"
+  },
+  {
+    "lesson": 2,
+    "no": 11,
+    "chinese": "没事",
+    "pinyin": "méishì",
+    "vi": "không sao; không có việc gì",
+    "en": "it's okay; no problem"
+  },
+  {
+    "lesson": 2,
+    "no": 12,
+    "chinese": "很",
+    "pinyin": "hěn",
+    "vi": "rất",
+    "en": "very"
+  },
+  {
+    "lesson": 2,
+    "no": 13,
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "vi": "vui; vui vẻ",
+    "en": "happy; glad"
+  },
+  {
+    "lesson": 2,
+    "no": 14,
+    "chinese": "认识",
+    "pinyin": "rènshi",
+    "vi": "quen; biết; làm quen",
+    "en": "to know; to meet"
+  },
+  {
+    "lesson": 2,
+    "no": 15,
+    "chinese": "也",
+    "pinyin": "yě",
+    "vi": "cũng",
+    "en": "also; too"
+  },
+  {
+    "lesson": 3,
+    "no": 1,
+    "chinese": "人",
+    "pinyin": "rén",
+    "vi": "người",
+    "en": "person; people"
+  },
+  {
+    "lesson": 3,
+    "no": 2,
+    "chinese": "的",
+    "pinyin": "de",
+    "vi": "của; trợ từ sở hữu",
+    "en": "possessive particle"
+  },
+  {
+    "lesson": 3,
+    "no": 3,
+    "chinese": "中国",
+    "pinyin": "Zhōngguó",
+    "vi": "Trung Quốc",
+    "en": "China"
+  },
+  {
+    "lesson": 3,
+    "no": 4,
+    "chinese": "法国",
+    "pinyin": "Fǎguó",
+    "vi": "Pháp",
+    "en": "France"
+  },
+  {
+    "lesson": 3,
+    "no": 5,
+    "chinese": "中文",
+    "pinyin": "Zhōngwén",
+    "vi": "tiếng Trung",
+    "en": "Chinese language"
+  },
+  {
+    "lesson": 3,
+    "no": 6,
+    "chinese": "这",
+    "pinyin": "zhè",
+    "vi": "này; đây",
+    "en": "this"
+  },
+  {
+    "lesson": 3,
+    "no": 7,
+    "chinese": "谁",
+    "pinyin": "shéi / shuí",
+    "vi": "ai",
+    "en": "who"
+  },
+  {
+    "lesson": 3,
+    "no": 8,
+    "chinese": "女朋友",
+    "pinyin": "nǚpéngyou",
+    "vi": "bạn gái",
+    "en": "girlfriend"
+  },
+  {
+    "lesson": 3,
+    "no": 9,
+    "chinese": "哪",
+    "pinyin": "nǎ",
+    "vi": "nào",
+    "en": "which"
+  },
+  {
+    "lesson": 3,
+    "no": 10,
+    "chinese": "国",
+    "pinyin": "guó",
+    "vi": "nước; quốc gia",
+    "en": "country; nation"
+  },
+  {
+    "lesson": 3,
+    "no": 11,
+    "chinese": "她",
+    "pinyin": "tā",
+    "vi": "cô ấy; chị ấy",
+    "en": "she; her"
+  },
+  {
+    "lesson": 3,
+    "no": 12,
+    "chinese": "泰国",
+    "pinyin": "Tàiguó",
+    "vi": "Thái Lan",
+    "en": "Thailand"
+  },
+  {
+    "lesson": 3,
+    "no": 13,
+    "chinese": "喂",
+    "pinyin": "wèi",
+    "vi": "a lô",
+    "en": "hello (on the phone)"
+  },
+  {
+    "lesson": 3,
+    "no": 14,
+    "chinese": "姐姐",
+    "pinyin": "jiějie",
+    "vi": "chị gái",
+    "en": "older sister"
+  },
+  {
+    "lesson": 3,
+    "no": 15,
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "vi": "làm việc; công việc",
+    "en": "to work; work; job"
+  },
+  {
+    "lesson": 3,
+    "no": 16,
+    "chinese": "还",
+    "pinyin": "hái",
+    "vi": "vẫn; còn",
+    "en": "still; also"
+  },
+  {
+    "lesson": 3,
+    "no": 17,
+    "chinese": "忙",
+    "pinyin": "máng",
+    "vi": "bận",
+    "en": "busy"
+  },
+  {
+    "lesson": 3,
+    "no": 18,
+    "chinese": "吗",
+    "pinyin": "ma",
+    "vi": "không?; à?",
+    "en": "question particle"
+  },
+  {
+    "lesson": 3,
+    "no": 19,
+    "chinese": "对",
+    "pinyin": "duì",
+    "vi": "đúng",
+    "en": "correct; right"
+  },
+  {
+    "lesson": 3,
+    "no": 20,
+    "chinese": "太",
+    "pinyin": "tài",
+    "vi": "quá; rất",
+    "en": "too; extremely"
+  },
+  {
+    "lesson": 3,
+    "no": 21,
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "vi": "chúng tôi; chúng ta",
+    "en": "we; us"
+  },
+  {
+    "lesson": 3,
+    "no": 22,
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "vi": "muốn; nghĩ",
+    "en": "to want; to think"
+  },
+  {
+    "lesson": 4,
+    "no": 1,
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "vi": "có",
+    "en": "to have; there is/are"
+  },
+  {
+    "lesson": 4,
+    "no": 2,
+    "chinese": "多少",
+    "pinyin": "duōshao",
+    "vi": "bao nhiêu",
+    "en": "how many; how much"
+  },
+  {
+    "lesson": 4,
+    "no": 3,
+    "chinese": "个",
+    "pinyin": "gè",
+    "vi": "cái; người",
+    "en": "general measure word"
+  },
+  {
+    "lesson": 4,
+    "no": 4,
+    "chinese": "哥哥",
+    "pinyin": "gēge",
+    "vi": "anh trai",
+    "en": "older brother"
+  },
+  {
+    "lesson": 4,
+    "no": 5,
+    "chinese": "呢",
+    "pinyin": "ne",
+    "vi": "thì sao; còn…?",
+    "en": "question particle"
+  },
+  {
+    "lesson": 4,
+    "no": 6,
+    "chinese": "没有",
+    "pinyin": "méiyǒu",
+    "vi": "không có",
+    "en": "to not have; there isn't/aren't"
+  },
+  {
+    "lesson": 4,
+    "no": 7,
+    "chinese": "家",
+    "pinyin": "jiā",
+    "vi": "nhà; gia đình",
+    "en": "home; family"
+  },
+  {
+    "lesson": 4,
+    "no": 8,
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "vi": "mấy; bao nhiêu",
+    "en": "how many"
+  },
+  {
+    "lesson": 4,
+    "no": 9,
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "vi": "khẩu; người (lượng từ cho thành viên gia đình)",
+    "en": "measure word for family members"
+  },
+  {
+    "lesson": 4,
+    "no": 10,
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "vi": "bố; ba",
+    "en": "father; dad"
+  },
+  {
+    "lesson": 4,
+    "no": 11,
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "vi": "mẹ",
+    "en": "mother; mom"
+  },
+  {
+    "lesson": 4,
+    "no": 12,
+    "chinese": "妹妹",
+    "pinyin": "mèimei",
+    "vi": "em gái",
+    "en": "younger sister"
+  },
+  {
+    "lesson": 4,
+    "no": 13,
+    "chinese": "和",
+    "pinyin": "hé",
+    "vi": "và",
+    "en": "and"
+  },
+  {
+    "lesson": 4,
+    "no": 14,
+    "chinese": "儿子",
+    "pinyin": "érzi",
+    "vi": "con trai",
+    "en": "son"
+  },
+  {
+    "lesson": 4,
+    "no": 15,
+    "chinese": "孩子",
+    "pinyin": "háizi",
+    "vi": "con; trẻ em",
+    "en": "child; children"
+  },
+  {
+    "lesson": 4,
+    "no": 16,
+    "chinese": "女儿",
+    "pinyin": "nǚ'ér",
+    "vi": "con gái",
+    "en": "daughter"
+  },
+  {
+    "lesson": 4,
+    "no": 17,
+    "chinese": "岁",
+    "pinyin": "suì",
+    "vi": "tuổi",
+    "en": "years old"
+  },
+  {
+    "lesson": 4,
+    "no": 18,
+    "chinese": "他",
+    "pinyin": "tā",
+    "vi": "anh ấy; ông ấy",
+    "en": "he; him"
+  },
+  {
+    "lesson": 4,
+    "no": 19,
+    "chinese": "今年",
+    "pinyin": "jīnnián",
+    "vi": "năm nay",
+    "en": "this year"
+  },
+  {
+    "lesson": 4,
+    "no": 20,
+    "chinese": "多",
+    "pinyin": "duō",
+    "vi": "nhiều; bao nhiêu",
+    "en": "many; much"
+  },
+  {
+    "lesson": 4,
+    "no": 21,
+    "chinese": "大",
+    "pinyin": "dà",
+    "vi": "lớn; bao nhiêu tuổi",
+    "en": "big; old (age)"
+  },
+  {
+    "lesson": 5,
+    "no": 1,
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "vi": "hôm nay",
+    "en": "today"
+  },
+  {
+    "lesson": 5,
+    "no": 2,
+    "chinese": "号",
+    "pinyin": "hào",
+    "vi": "ngày (trong tháng); số",
+    "en": "date; number"
+  },
+  {
+    "lesson": 5,
+    "no": 3,
+    "chinese": "月",
+    "pinyin": "yuè",
+    "vi": "tháng",
+    "en": "month"
+  },
+  {
+    "lesson": 5,
+    "no": 4,
+    "chinese": "日",
+    "pinyin": "rì",
+    "vi": "ngày",
+    "en": "day; date"
+  },
+  {
+    "lesson": 5,
+    "no": 5,
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "vi": "tuần; thứ",
+    "en": "week"
+  },
+  {
+    "lesson": 5,
+    "no": 6,
+    "chinese": "星期日",
+    "pinyin": "xīngqīrì",
+    "vi": "Chủ nhật",
+    "en": "Sunday"
+  },
+  {
+    "lesson": 5,
+    "no": 7,
+    "chinese": "星期天",
+    "pinyin": "xīngqītiān",
+    "vi": "Chủ nhật",
+    "en": "Sunday"
+  },
+  {
+    "lesson": 5,
+    "no": 8,
+    "chinese": "休息",
+    "pinyin": "xiūxi",
+    "vi": "nghỉ ngơi",
+    "en": "to rest; have a break"
+  },
+  {
+    "lesson": 5,
+    "no": 9,
+    "chinese": "会",
+    "pinyin": "huì",
+    "vi": "biết; có thể",
+    "en": "can; know how to"
+  },
+  {
+    "lesson": 5,
+    "no": 10,
+    "chinese": "做饭",
+    "pinyin": "zuò fàn",
+    "vi": "nấu ăn",
+    "en": "to cook"
+  },
+  {
+    "lesson": 5,
+    "no": 11,
+    "chinese": "做",
+    "pinyin": "zuò",
+    "vi": "làm",
+    "en": "to do; to make"
+  },
+  {
+    "lesson": 5,
+    "no": 12,
+    "chinese": "面条儿",
+    "pinyin": "miàntiáor",
+    "vi": "mì; mì sợi",
+    "en": "noodles"
+  },
+  {
+    "lesson": 5,
+    "no": 13,
+    "chinese": "饺子",
+    "pinyin": "jiǎozi",
+    "vi": "bánh chẻo; sủi cảo",
+    "en": "dumplings"
+  },
+  {
+    "lesson": 5,
+    "no": 14,
+    "chinese": "一些",
+    "pinyin": "yìxiē",
+    "vi": "một vài; một ít",
+    "en": "some"
+  },
+  {
+    "lesson": 5,
+    "no": 15,
+    "chinese": "菜",
+    "pinyin": "cài",
+    "vi": "món ăn; rau",
+    "en": "dish; vegetable"
+  },
+  {
+    "lesson": 5,
+    "no": 16,
+    "chinese": "下班",
+    "pinyin": "xiàbān",
+    "vi": "tan làm",
+    "en": "to get off work"
+  },
+  {
+    "lesson": 5,
+    "no": 17,
+    "chinese": "新",
+    "pinyin": "xīn",
+    "vi": "mới",
+    "en": "new"
+  },
+  {
+    "lesson": 5,
+    "no": 18,
+    "chinese": "电脑",
+    "pinyin": "diànnǎo",
+    "vi": "máy tính",
+    "en": "computer"
+  },
+  {
+    "lesson": 5,
+    "no": 19,
+    "chinese": "真",
+    "pinyin": "zhēn",
+    "vi": "thật; thật sự",
+    "en": "really; truly"
+  },
+  {
+    "lesson": 5,
+    "no": 20,
+    "chinese": "好看",
+    "pinyin": "hǎokàn",
+    "vi": "đẹp; dễ nhìn",
+    "en": "good-looking; nice"
+  },
+  {
+    "lesson": 5,
+    "no": 21,
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "vi": "thích",
+    "en": "to like"
+  },
+  {
+    "lesson": 5,
+    "no": 22,
+    "chinese": "它",
+    "pinyin": "tā",
+    "vi": "nó",
+    "en": "it"
+  },
+  {
+    "lesson": 6,
+    "no": 1,
+    "chinese": "手机",
+    "pinyin": "shǒujī",
+    "vi": "điện thoại di động",
+    "en": "mobile phone"
+  },
+  {
+    "lesson": 6,
+    "no": 2,
+    "chinese": "电话",
+    "pinyin": "diànhuà",
+    "vi": "điện thoại; cuộc gọi",
+    "en": "telephone; phone call"
+  },
+  {
+    "lesson": 6,
+    "no": 3,
+    "chinese": "号",
+    "pinyin": "hào",
+    "vi": "số",
+    "en": "number"
+  },
+  {
+    "lesson": 6,
+    "no": 4,
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "vi": "ngày mai",
+    "en": "tomorrow"
+  },
+  {
+    "lesson": 6,
+    "no": 5,
+    "chinese": "去",
+    "pinyin": "qù",
+    "vi": "đi",
+    "en": "to go"
+  },
+  {
+    "lesson": 6,
+    "no": 6,
+    "chinese": "哪儿",
+    "pinyin": "nǎr",
+    "vi": "đâu; nơi nào",
+    "en": "where"
+  },
+  {
+    "lesson": 6,
+    "no": 7,
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "vi": "muốn; nghĩ",
+    "en": "to want; to think"
+  },
+  {
+    "lesson": 6,
+    "no": 8,
+    "chinese": "超市",
+    "pinyin": "chāoshì",
+    "vi": "siêu thị",
+    "en": "supermarket"
+  },
+  {
+    "lesson": 6,
+    "no": 9,
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "vi": "mua",
+    "en": "to buy"
+  },
+  {
+    "lesson": 6,
+    "no": 10,
+    "chinese": "东西",
+    "pinyin": "dōngxi",
+    "vi": "đồ; đồ vật",
+    "en": "thing; things"
+  },
+  {
+    "lesson": 6,
+    "no": 11,
+    "chinese": "些",
+    "pinyin": "xiē",
+    "vi": "một vài; một ít",
+    "en": "some"
+  },
+  {
+    "lesson": 6,
+    "no": 12,
+    "chinese": "牛奶",
+    "pinyin": "niúnǎi",
+    "vi": "sữa bò",
+    "en": "milk"
+  },
+  {
+    "lesson": 6,
+    "no": 13,
+    "chinese": "吃",
+    "pinyin": "chī",
+    "vi": "ăn",
+    "en": "to eat"
+  },
+  {
+    "lesson": 6,
+    "no": 14,
+    "chinese": "晚饭",
+    "pinyin": "wǎnfàn",
+    "vi": "bữa tối",
+    "en": "dinner"
+  },
+  {
+    "lesson": 6,
+    "no": 15,
+    "chinese": "那边",
+    "pinyin": "nàbian",
+    "vi": "bên kia; phía đó",
+    "en": "over there"
+  },
+  {
+    "lesson": 6,
+    "no": 16,
+    "chinese": "包子",
+    "pinyin": "bāozi",
+    "vi": "bánh bao",
+    "en": "steamed bun"
+  },
+  {
+    "lesson": 6,
+    "no": 17,
+    "chinese": "非常",
+    "pinyin": "fēicháng",
+    "vi": "rất; vô cùng",
+    "en": "very; extremely"
+  },
+  {
+    "lesson": 6,
+    "no": 18,
+    "chinese": "好吃",
+    "pinyin": "hǎochī",
+    "vi": "ngon",
+    "en": "delicious; tasty"
+  },
+  {
+    "lesson": 6,
+    "no": 19,
+    "chinese": "米饭",
+    "pinyin": "mǐfàn",
+    "vi": "cơm",
+    "en": "cooked rice"
+  },
+  {
+    "lesson": 6,
+    "no": 20,
+    "chinese": "怎么",
+    "pinyin": "zěnme",
+    "vi": "thế nào; làm sao",
+    "en": "how"
+  },
+  {
+    "lesson": 6,
+    "no": 21,
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "vi": "ngồi; đi bằng (phương tiện)",
+    "en": "to sit; to take (transport)"
+  },
+  {
+    "lesson": 6,
+    "no": 22,
+    "chinese": "出租车",
+    "pinyin": "chūzūchē",
+    "vi": "taxi",
+    "en": "taxi"
+  },
+  {
+    "lesson": 7,
+    "no": 1,
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "vi": "bây giờ; hiện tại",
+    "en": "now; at present"
+  },
+  {
+    "lesson": 7,
+    "no": 2,
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "vi": "giờ",
+    "en": "o'clock"
+  },
+  {
+    "lesson": 7,
+    "no": 3,
+    "chinese": "早上",
+    "pinyin": "zǎoshang",
+    "vi": "sáng sớm; buổi sáng",
+    "en": "early morning; morning"
+  },
+  {
+    "lesson": 7,
+    "no": 4,
+    "chinese": "上午",
+    "pinyin": "shàngwǔ",
+    "vi": "buổi sáng",
+    "en": "morning"
+  },
+  {
+    "lesson": 7,
+    "no": 5,
+    "chinese": "分",
+    "pinyin": "fēn",
+    "vi": "phút",
+    "en": "minute"
+  },
+  {
+    "lesson": 7,
+    "no": 6,
+    "chinese": "课",
+    "pinyin": "kè",
+    "vi": "tiết học; bài học",
+    "en": "class; lesson"
+  },
+  {
+    "lesson": 7,
+    "no": 7,
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "vi": "buổi chiều",
+    "en": "afternoon"
+  },
+  {
+    "lesson": 7,
+    "no": 8,
+    "chinese": "见",
+    "pinyin": "jiàn",
+    "vi": "gặp; thấy",
+    "en": "to see; to meet"
+  },
+  {
+    "lesson": 7,
+    "no": 9,
+    "chinese": "吧",
+    "pinyin": "ba",
+    "vi": "nhé; đi",
+    "en": "suggestion particle"
+  },
+  {
+    "lesson": 7,
+    "no": 10,
+    "chinese": "电影院",
+    "pinyin": "diànyǐngyuàn",
+    "vi": "rạp chiếu phim",
+    "en": "cinema; movie theater"
+  },
+  {
+    "lesson": 7,
+    "no": 11,
+    "chinese": "看",
+    "pinyin": "kàn",
+    "vi": "xem; nhìn; đọc",
+    "en": "to look; to watch; to read"
+  },
+  {
+    "lesson": 7,
+    "no": 12,
+    "chinese": "电影",
+    "pinyin": "diànyǐng",
+    "vi": "phim; điện ảnh",
+    "en": "movie; film"
+  },
+  {
+    "lesson": 7,
+    "no": 13,
+    "chinese": "事",
+    "pinyin": "shì",
+    "vi": "việc; sự việc",
+    "en": "matter; thing"
+  },
+  {
+    "lesson": 7,
+    "no": 14,
+    "chinese": "上课",
+    "pinyin": "shàngkè",
+    "vi": "lên lớp; học",
+    "en": "to attend class; to have class"
+  },
+  {
+    "lesson": 7,
+    "no": 15,
+    "chinese": "呢",
+    "pinyin": "ne",
+    "vi": "thì sao; còn…?",
+    "en": "question particle"
+  },
+  {
+    "lesson": 7,
+    "no": 16,
+    "chinese": "半",
+    "pinyin": "bàn",
+    "vi": "nửa; rưỡi",
+    "en": "half"
+  },
+  {
+    "lesson": 7,
+    "no": 17,
+    "chinese": "下课",
+    "pinyin": "xiàkè",
+    "vi": "tan học; hết tiết",
+    "en": "to finish class"
+  },
+  {
+    "lesson": 7,
+    "no": 18,
+    "chinese": "在",
+    "pinyin": "zài",
+    "vi": "ở; tại",
+    "en": "to be at; in; at"
+  },
+  {
+    "lesson": 7,
+    "no": 19,
+    "chinese": "家",
+    "pinyin": "jiā",
+    "vi": "nhà; gia đình",
+    "en": "home; family"
+  },
+  {
+    "lesson": 7,
+    "no": 20,
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "vi": "trong; bên trong",
+    "en": "in; inside"
+  },
+  {
+    "lesson": 7,
+    "no": 21,
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "vi": "buổi tối",
+    "en": "evening; night"
+  },
+  {
+    "lesson": 7,
+    "no": 22,
+    "chinese": "医院",
+    "pinyin": "yīyuàn",
+    "vi": "bệnh viện",
+    "en": "hospital"
+  },
+  {
+    "lesson": 7,
+    "no": 23,
+    "chinese": "上班",
+    "pinyin": "shàngbān",
+    "vi": "đi làm; làm việc",
+    "en": "to go to work; to be at work"
+  },
+  {
+    "lesson": 7,
+    "no": 24,
+    "chinese": "店",
+    "pinyin": "diàn",
+    "vi": "cửa hàng; tiệm",
+    "en": "shop; store"
+  },
+  {
+    "lesson": 7,
+    "no": 25,
+    "chinese": "菜",
+    "pinyin": "cài",
+    "vi": "món ăn; rau",
+    "en": "dish; vegetable"
+  },
+  {
+    "lesson": 7,
+    "no": 26,
+    "chinese": "分钟",
+    "pinyin": "fēnzhōng",
+    "vi": "phút",
+    "en": "minute"
+  },
+  {
+    "lesson": 7,
+    "no": 27,
+    "chinese": "后",
+    "pinyin": "hòu",
+    "vi": "sau; sau đó",
+    "en": "after; later"
+  },
+  {
+    "lesson": 8,
+    "no": 1,
+    "chinese": "房间",
+    "pinyin": "fángjiān",
+    "vi": "phòng",
+    "en": "room"
+  },
+  {
+    "lesson": 8,
+    "no": 2,
+    "chinese": "外",
+    "pinyin": "wài",
+    "vi": "ngoài; bên ngoài",
+    "en": "outside"
+  },
+  {
+    "lesson": 8,
+    "no": 3,
+    "chinese": "只",
+    "pinyin": "zhī",
+    "vi": "con (lượng từ cho động vật)",
+    "en": "measure word for animals"
+  },
+  {
+    "lesson": 8,
+    "no": 4,
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "vi": "nhỏ; bé",
+    "en": "small; little"
+  },
+  {
+    "lesson": 8,
+    "no": 5,
+    "chinese": "猫",
+    "pinyin": "māo",
+    "vi": "mèo",
+    "en": "cat"
+  },
+  {
+    "lesson": 8,
+    "no": 6,
+    "chinese": "没",
+    "pinyin": "méi",
+    "vi": "không; chưa",
+    "en": "not; have not"
+  },
+  {
+    "lesson": 8,
+    "no": 7,
+    "chinese": "看见",
+    "pinyin": "kànjiàn",
+    "vi": "nhìn thấy",
+    "en": "to see"
+  },
+  {
+    "lesson": 8,
+    "no": 8,
+    "chinese": "桌子",
+    "pinyin": "zhuōzi",
+    "vi": "cái bàn",
+    "en": "table"
+  },
+  {
+    "lesson": 8,
+    "no": 9,
+    "chinese": "下",
+    "pinyin": "xià",
+    "vi": "dưới; bên dưới",
+    "en": "under; below"
+  },
+  {
+    "lesson": 8,
+    "no": 10,
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "vi": "đẹp; xinh đẹp",
+    "en": "beautiful; pretty"
+  },
+  {
+    "lesson": 8,
+    "no": 11,
+    "chinese": "在",
+    "pinyin": "zài",
+    "vi": "ở; tại",
+    "en": "to be at; in; at"
+  },
+  {
+    "lesson": 8,
+    "no": 12,
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "vi": "trường học",
+    "en": "school"
+  },
+  {
+    "lesson": 8,
+    "no": 13,
+    "chinese": "书店",
+    "pinyin": "shūdiàn",
+    "vi": "hiệu sách; nhà sách",
+    "en": "bookstore"
+  },
+  {
+    "lesson": 8,
+    "no": 14,
+    "chinese": "前",
+    "pinyin": "qián",
+    "vi": "trước; phía trước",
+    "en": "front; before"
+  },
+  {
+    "lesson": 8,
+    "no": 15,
+    "chinese": "能",
+    "pinyin": "néng",
+    "vi": "có thể",
+    "en": "can; be able to"
+  },
+  {
+    "lesson": 8,
+    "no": 16,
+    "chinese": "到",
+    "pinyin": "dào",
+    "vi": "đến",
+    "en": "to arrive; to reach"
+  },
+  {
+    "lesson": 8,
+    "no": 17,
+    "chinese": "午饭",
+    "pinyin": "wǔfàn",
+    "vi": "bữa trưa",
+    "en": "lunch"
+  },
+  {
+    "lesson": 8,
+    "no": 18,
+    "chinese": "饭",
+    "pinyin": "fàn",
+    "vi": "cơm; bữa ăn",
+    "en": "rice; meal"
+  },
+  {
+    "lesson": 8,
+    "no": 19,
+    "chinese": "大",
+    "pinyin": "dà",
+    "vi": "lớn; to",
+    "en": "big; large"
+  },
+  {
+    "lesson": 8,
+    "no": 20,
+    "chinese": "病人",
+    "pinyin": "bìngrén",
+    "vi": "bệnh nhân",
+    "en": "patient"
+  },
+  {
+    "lesson": 8,
+    "no": 21,
+    "chinese": "多",
+    "pinyin": "duō",
+    "vi": "nhiều",
+    "en": "many; much"
+  },
+  {
+    "lesson": 8,
+    "no": 22,
+    "chinese": "医生",
+    "pinyin": "yīshēng",
+    "vi": "bác sĩ",
+    "en": "doctor"
+  },
+  {
+    "lesson": 8,
+    "no": 23,
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "vi": "làm việc; công việc",
+    "en": "to work; work; job"
+  },
+  {
+    "lesson": 9,
+    "no": 1,
+    "chinese": "前边",
+    "pinyin": "qiánbian",
+    "vi": "phía trước; đằng trước",
+    "en": "in front; front"
+  },
+  {
+    "lesson": 9,
+    "no": 2,
+    "chinese": "边",
+    "pinyin": "bian / biān",
+    "vi": "bên; phía",
+    "en": "side"
+  },
+  {
+    "lesson": 9,
+    "no": 3,
+    "chinese": "家",
+    "pinyin": "jiā",
+    "vi": "nhà; gia đình",
+    "en": "home; family"
+  },
+  {
+    "lesson": 9,
+    "no": 4,
+    "chinese": "那个",
+    "pinyin": "nàge",
+    "vi": "cái đó; người đó",
+    "en": "that; that one"
+  },
+  {
+    "lesson": 9,
+    "no": 5,
+    "chinese": "外边",
+    "pinyin": "wàibian",
+    "vi": "bên ngoài; phía ngoài",
+    "en": "outside"
+  },
+  {
+    "lesson": 9,
+    "no": 6,
+    "chinese": "椅子",
+    "pinyin": "yǐzi",
+    "vi": "cái ghế",
+    "en": "chair"
+  },
+  {
+    "lesson": 9,
+    "no": 7,
+    "chinese": "上",
+    "pinyin": "shang / shàng",
+    "vi": "trên; phía trên",
+    "en": "on; above"
+  },
+  {
+    "lesson": 9,
+    "no": 8,
+    "chinese": "本",
+    "pinyin": "běn",
+    "vi": "quyển, cuốn",
+    "en": "measure word for books"
+  },
+  {
+    "lesson": 9,
+    "no": 9,
+    "chinese": "书",
+    "pinyin": "shū",
+    "vi": "sách",
+    "en": "book"
+  },
+  {
+    "lesson": 9,
+    "no": 10,
+    "chinese": "那",
+    "pinyin": "nà",
+    "vi": "kia; đó",
+    "en": "that"
+  },
+  {
+    "lesson": 9,
+    "no": 11,
+    "chinese": "第",
+    "pinyin": "dì",
+    "vi": "thứ; số thứ tự",
+    "en": "ordinal prefix"
+  },
+  {
+    "lesson": 9,
+    "no": 12,
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "vi": "học; học tập",
+    "en": "to study; to learn"
+  },
+  {
+    "lesson": 9,
+    "no": 13,
+    "chinese": "做",
+    "pinyin": "zuò",
+    "vi": "làm",
+    "en": "to do; to make"
+  },
+  {
+    "lesson": 9,
+    "no": 14,
+    "chinese": "白天",
+    "pinyin": "báitiān",
+    "vi": "ban ngày",
+    "en": "daytime"
+  },
+  {
+    "lesson": 9,
+    "no": 15,
+    "chinese": "读书",
+    "pinyin": "dúshū",
+    "vi": "đọc sách; học",
+    "en": "to read; to study"
+  },
+  {
+    "lesson": 9,
+    "no": 16,
+    "chinese": "和",
+    "pinyin": "hé",
+    "vi": "và",
+    "en": "and"
+  },
+  {
+    "lesson": 9,
+    "no": 17,
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "vi": "bạn; bạn bè",
+    "en": "friend"
+  },
+  {
+    "lesson": 9,
+    "no": 18,
+    "chinese": "唱",
+    "pinyin": "chàng",
+    "vi": "hát",
+    "en": "to sing"
+  },
+  {
+    "lesson": 9,
+    "no": 19,
+    "chinese": "歌",
+    "pinyin": "gē",
+    "vi": "bài hát",
+    "en": "song"
+  },
+  {
+    "lesson": 9,
+    "no": 20,
+    "chinese": "好听",
+    "pinyin": "hǎotīng",
+    "vi": "hay; nghe hay",
+    "en": "pleasant to listen to"
+  },
+  {
+    "lesson": 9,
+    "no": 21,
+    "chinese": "电视",
+    "pinyin": "diànshì",
+    "vi": "ti vi; truyền hình",
+    "en": "television; TV"
+  },
+  {
+    "lesson": 9,
+    "no": 22,
+    "chinese": "狗",
+    "pinyin": "gǒu",
+    "vi": "chó",
+    "en": "dog"
+  },
+  {
+    "lesson": 9,
+    "no": 23,
+    "chinese": "玩",
+    "pinyin": "wán",
+    "vi": "chơi",
+    "en": "to play; to have fun"
+  },
+  {
+    "lesson": 10,
+    "no": 1,
+    "chinese": "杯子",
+    "pinyin": "bēizi",
+    "vi": "cái cốc; cái ly",
+    "en": "cup; glass"
+  },
+  {
+    "lesson": 10,
+    "no": 2,
+    "chinese": "售货员",
+    "pinyin": "shòuhuòyuán",
+    "vi": "nhân viên bán hàng",
+    "en": "salesperson; shop assistant"
+  },
+  {
+    "lesson": 10,
+    "no": 3,
+    "chinese": "这边",
+    "pinyin": "zhèbian",
+    "vi": "bên này; phía này",
+    "en": "this side; over here"
+  },
+  {
+    "lesson": 10,
+    "no": 4,
+    "chinese": "钱",
+    "pinyin": "qián",
+    "vi": "tiền",
+    "en": "money"
+  },
+  {
+    "lesson": 10,
+    "no": 5,
+    "chinese": "这些",
+    "pinyin": "zhèxiē",
+    "vi": "những cái này",
+    "en": "these"
+  },
+  {
+    "lesson": 10,
+    "no": 6,
+    "chinese": "块",
+    "pinyin": "kuài",
+    "vi": "đồng; tệ (khẩu ngữ)",
+    "en": "yuan (colloquial); piece"
+  },
+  {
+    "lesson": 10,
+    "no": 7,
+    "chinese": "那些",
+    "pinyin": "nàxiē",
+    "vi": "những cái kia",
+    "en": "those"
+  },
+  {
+    "lesson": 10,
+    "no": 8,
+    "chinese": "这儿",
+    "pinyin": "zhèr",
+    "vi": "ở đây; chỗ này",
+    "en": "here"
+  },
+  {
+    "lesson": 10,
+    "no": 9,
+    "chinese": "水果",
+    "pinyin": "shuǐguǒ",
+    "vi": "trái cây; hoa quả",
+    "en": "fruit"
+  },
+  {
+    "lesson": 10,
+    "no": 10,
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "vi": "ít",
+    "en": "few; little"
+  },
+  {
+    "lesson": 10,
+    "no": 11,
+    "chinese": "斤",
+    "pinyin": "jīn",
+    "vi": "cân (0,5 kg)",
+    "en": "jin (500 grams)"
+  },
+  {
+    "lesson": 10,
+    "no": 12,
+    "chinese": "苹果",
+    "pinyin": "píngguǒ",
+    "vi": "táo",
+    "en": "apple"
+  },
+  {
+    "lesson": 10,
+    "no": 13,
+    "chinese": "便宜",
+    "pinyin": "piányi",
+    "vi": "rẻ",
+    "en": "cheap; inexpensive"
+  },
+  {
+    "lesson": 10,
+    "no": 14,
+    "chinese": "商店",
+    "pinyin": "shāngdiàn",
+    "vi": "cửa hàng",
+    "en": "shop; store"
+  },
+  {
+    "lesson": 10,
+    "no": 15,
+    "chinese": "衣服",
+    "pinyin": "yīfu",
+    "vi": "quần áo",
+    "en": "clothes; clothing"
+  },
+  {
+    "lesson": 10,
+    "no": 16,
+    "chinese": "件",
+    "pinyin": "jiàn",
+    "vi": "cái; chiếc (lượng từ cho quần áo)",
+    "en": "measure word for clothes"
+  },
+  {
+    "lesson": 10,
+    "no": 17,
+    "chinese": "元",
+    "pinyin": "yuán",
+    "vi": "tệ; nhân dân tệ",
+    "en": "yuan"
+  },
+  {
+    "lesson": 10,
+    "no": 18,
+    "chinese": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "vi": "thế nào; như thế nào",
+    "en": "how; how about"
+  },
+  {
+    "lesson": 10,
+    "no": 19,
+    "chinese": "贵",
+    "pinyin": "guì",
+    "vi": "đắt",
+    "en": "expensive"
+  },
+  {
+    "lesson": 10,
+    "no": 20,
+    "chinese": "穿",
+    "pinyin": "chuān",
+    "vi": "mặc; mang",
+    "en": "to wear; to put on"
+  },
+  {
+    "lesson": 10,
+    "no": 21,
+    "chinese": "女",
+    "pinyin": "nǚ",
+    "vi": "nữ; con gái",
+    "en": "female; woman"
+  },
+  {
+    "lesson": 10,
+    "no": 22,
+    "chinese": "男",
+    "pinyin": "nán",
+    "vi": "nam; con trai",
+    "en": "male; man"
+  },
+  {
+    "lesson": 10,
+    "no": 23,
+    "chinese": "那儿",
+    "pinyin": "nàr",
+    "vi": "ở đó; chỗ kia",
+    "en": "there"
+  },
+  {
+    "lesson": 11,
+    "no": 1,
+    "chinese": "时候",
+    "pinyin": "shíhou",
+    "vi": "lúc; khi",
+    "en": "time; when"
+  },
+  {
+    "lesson": 11,
+    "no": 2,
+    "chinese": "饭店",
+    "pinyin": "fàndiàn",
+    "vi": "nhà hàng; quán ăn",
+    "en": "restaurant"
+  },
+  {
+    "lesson": 11,
+    "no": 3,
+    "chinese": "知道",
+    "pinyin": "zhīdào",
+    "vi": "biết",
+    "en": "to know"
+  },
+  {
+    "lesson": 11,
+    "no": 4,
+    "chinese": "正在",
+    "pinyin": "zhèngzài",
+    "vi": "đang",
+    "en": "be doing; in the process of"
+  },
+  {
+    "lesson": 11,
+    "no": 5,
+    "chinese": "找",
+    "pinyin": "zhǎo",
+    "vi": "tìm; tìm kiếm",
+    "en": "to look for; to find"
+  },
+  {
+    "lesson": 11,
+    "no": 6,
+    "chinese": "开车",
+    "pinyin": "kāichē",
+    "vi": "lái xe",
+    "en": "to drive"
+  },
+  {
+    "lesson": 11,
+    "no": 7,
+    "chinese": "车",
+    "pinyin": "chē",
+    "vi": "xe",
+    "en": "vehicle; car"
+  },
+  {
+    "lesson": 11,
+    "no": 8,
+    "chinese": "在",
+    "pinyin": "zài",
+    "vi": "ở; tại; đang",
+    "en": "at; in; be doing"
+  },
+  {
+    "lesson": 11,
+    "no": 9,
+    "chinese": "读",
+    "pinyin": "dú",
+    "vi": "đọc",
+    "en": "to read"
+  },
+  {
+    "lesson": 11,
+    "no": 10,
+    "chinese": "大学",
+    "pinyin": "dàxué",
+    "vi": "đại học; trường đại học",
+    "en": "university; college"
+  },
+  {
+    "lesson": 11,
+    "no": 11,
+    "chinese": "大学生",
+    "pinyin": "dàxuéshēng",
+    "vi": "sinh viên đại học",
+    "en": "university student"
+  },
+  {
+    "lesson": 11,
+    "no": 12,
+    "chinese": "学",
+    "pinyin": "xué",
+    "vi": "học",
+    "en": "to study; to learn"
+  },
+  {
+    "lesson": 11,
+    "no": 13,
+    "chinese": "医",
+    "pinyin": "yī",
+    "vi": "y; y học",
+    "en": "medicine; medical"
+  },
+  {
+    "lesson": 11,
+    "no": 14,
+    "chinese": "弟弟",
+    "pinyin": "dìdi",
+    "vi": "em trai",
+    "en": "younger brother"
+  },
+  {
+    "lesson": 11,
+    "no": 15,
+    "chinese": "起床",
+    "pinyin": "qǐchuáng",
+    "vi": "thức dậy; ra khỏi giường",
+    "en": "to get up"
+  },
+  {
+    "lesson": 11,
+    "no": 16,
+    "chinese": "睡觉",
+    "pinyin": "shuìjiào",
+    "vi": "ngủ; đi ngủ",
+    "en": "to sleep; go to bed"
+  },
+  {
+    "lesson": 11,
+    "no": 17,
+    "chinese": "睡",
+    "pinyin": "shuì",
+    "vi": "ngủ",
+    "en": "to sleep"
+  },
+  {
+    "lesson": 11,
+    "no": 18,
+    "chinese": "那里",
+    "pinyin": "nàli",
+    "vi": "ở đó; nơi đó",
+    "en": "there"
+  },
+  {
+    "lesson": 11,
+    "no": 19,
+    "chinese": "哪里",
+    "pinyin": "nǎli",
+    "vi": "ở đâu; nơi nào",
+    "en": "where"
+  },
+  {
+    "lesson": 11,
+    "no": 20,
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "vi": "hôm qua",
+    "en": "yesterday"
+  },
+  {
+    "lesson": 11,
+    "no": 21,
+    "chinese": "问",
+    "pinyin": "wèn",
+    "vi": "hỏi",
+    "en": "to ask"
+  },
+  {
+    "lesson": 11,
+    "no": 22,
+    "chinese": "对",
+    "pinyin": "duì",
+    "vi": "đúng; đối với",
+    "en": "correct; toward"
+  },
+  {
+    "lesson": 11,
+    "no": 23,
+    "chinese": "说",
+    "pinyin": "shuō",
+    "vi": "nói",
+    "en": "to speak; to say"
+  },
+  {
+    "lesson": 11,
+    "no": 24,
+    "chinese": "要",
+    "pinyin": "yào",
+    "vi": "muốn; cần; sẽ",
+    "en": "to want; need; will"
+  },
+  {
+    "lesson": 11,
+    "no": 25,
+    "chinese": "小朋友",
+    "pinyin": "xiǎopéngyou",
+    "vi": "trẻ em; bạn nhỏ",
+    "en": "child; kid"
+  },
+  {
+    "lesson": 12,
+    "no": 1,
+    "chinese": "天气",
+    "pinyin": "tiānqì",
+    "vi": "thời tiết",
+    "en": "weather"
+  },
+  {
+    "lesson": 12,
+    "no": 2,
+    "chinese": "这里",
+    "pinyin": "zhèli",
+    "vi": "ở đây; nơi đây",
+    "en": "here"
+  },
+  {
+    "lesson": 12,
+    "no": 3,
+    "chinese": "天",
+    "pinyin": "tiān",
+    "vi": "trời; ngày",
+    "en": "sky; day"
+  },
+  {
+    "lesson": 12,
+    "no": 4,
+    "chinese": "下雨",
+    "pinyin": "xià yǔ",
+    "vi": "mưa; trời mưa",
+    "en": "to rain"
+  },
+  {
+    "lesson": 12,
+    "no": 5,
+    "chinese": "了",
+    "pinyin": "le",
+    "vi": "rồi; trợ từ chỉ sự thay đổi/hoàn thành",
+    "en": "particle indicating change/completion"
+  },
+  {
+    "lesson": 12,
+    "no": 6,
+    "chinese": "雨",
+    "pinyin": "yǔ",
+    "vi": "mưa",
+    "en": "rain"
+  },
+  {
+    "lesson": 12,
+    "no": 7,
+    "chinese": "有点儿",
+    "pinyin": "yǒudiǎnr",
+    "vi": "hơi; có một chút",
+    "en": "a little; somewhat"
+  },
+  {
+    "lesson": 12,
+    "no": 8,
+    "chinese": "觉得",
+    "pinyin": "juéde",
+    "vi": "cảm thấy; cho rằng",
+    "en": "to feel; to think"
+  },
+  {
+    "lesson": 12,
+    "no": 9,
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "vi": "lạnh",
+    "en": "cold"
+  },
+  {
+    "lesson": 12,
+    "no": 10,
+    "chinese": "下",
+    "pinyin": "xià",
+    "vi": "rơi; xuống; dưới",
+    "en": "to fall; down; below"
+  },
+  {
+    "lesson": 12,
+    "no": 11,
+    "chinese": "雪",
+    "pinyin": "xuě",
+    "vi": "tuyết",
+    "en": "snow"
+  },
+  {
+    "lesson": 12,
+    "no": 12,
+    "chinese": "来",
+    "pinyin": "lái",
+    "vi": "đến",
+    "en": "to come"
+  },
+  {
+    "lesson": 12,
+    "no": 13,
+    "chinese": "公司",
+    "pinyin": "gōngsī",
+    "vi": "công ty",
+    "en": "company"
+  },
+  {
+    "lesson": 12,
+    "no": 14,
+    "chinese": "生病",
+    "pinyin": "shēngbìng",
+    "vi": "bị bệnh; ốm",
+    "en": "to get sick; to fall ill"
+  },
+  {
+    "lesson": 12,
+    "no": 15,
+    "chinese": "看病",
+    "pinyin": "kànbìng",
+    "vi": "đi khám bệnh; khám bệnh",
+    "en": "to see a doctor"
+  },
+  {
+    "lesson": 12,
+    "no": 16,
+    "chinese": "病",
+    "pinyin": "bìng",
+    "vi": "bệnh; ốm",
+    "en": "illness; sick"
+  },
+  {
+    "lesson": 12,
+    "no": 17,
+    "chinese": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "vi": "một chút; một ít",
+    "en": "a little; a bit"
+  },
+  {
+    "lesson": 12,
+    "no": 18,
+    "chinese": "药",
+    "pinyin": "yào",
+    "vi": "thuốc",
+    "en": "medicine"
+  },
+  {
+    "lesson": 12,
+    "no": 19,
+    "chinese": "天",
+    "pinyin": "tiān",
+    "vi": "ngày; trời",
+    "en": "day; sky"
+  },
+  {
+    "lesson": 12,
+    "no": 20,
+    "chinese": "回",
+    "pinyin": "huí",
+    "vi": "về; quay lại",
+    "en": "to return; to go back"
+  },
+  {
+    "lesson": 12,
+    "no": 21,
+    "chinese": "再",
+    "pinyin": "zài",
+    "vi": "lại; lần nữa",
+    "en": "again"
+  },
+  {
+    "lesson": 12,
+    "no": 22,
+    "chinese": "喝",
+    "pinyin": "hē",
+    "vi": "uống",
+    "en": "to drink"
+  },
+  {
+    "lesson": 12,
+    "no": 23,
+    "chinese": "热",
+    "pinyin": "rè",
+    "vi": "nóng",
+    "en": "hot"
+  },
+  {
+    "lesson": 12,
+    "no": 24,
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "vi": "nước",
+    "en": "water"
+  },
+  {
+    "lesson": 13,
+    "no": 1,
+    "chinese": "可以",
+    "pinyin": "kěyǐ",
+    "vi": "có thể; được",
+    "en": "can; may"
+  },
+  {
+    "lesson": 13,
+    "no": 2,
+    "chinese": "再",
+    "pinyin": "zài",
+    "vi": "lại; lần nữa",
+    "en": "again"
+  },
+  {
+    "lesson": 13,
+    "no": 3,
+    "chinese": "问题",
+    "pinyin": "wèntí",
+    "vi": "vấn đề; câu hỏi",
+    "en": "problem; question"
+  },
+  {
+    "lesson": 13,
+    "no": 4,
+    "chinese": "卖",
+    "pinyin": "mài",
+    "vi": "bán",
+    "en": "to sell"
+  },
+  {
+    "lesson": 13,
+    "no": 5,
+    "chinese": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "vi": "gọi điện thoại",
+    "en": "to make a phone call"
+  },
+  {
+    "lesson": 13,
+    "no": 6,
+    "chinese": "一下",
+    "pinyin": "yíxià",
+    "vi": "một chút; một lát",
+    "en": "a little; briefly"
+  },
+  {
+    "lesson": 13,
+    "no": 7,
+    "chinese": "服务员",
+    "pinyin": "fúwùyuán",
+    "vi": "nhân viên phục vụ",
+    "en": "waiter; waitress; server"
+  },
+  {
+    "lesson": 13,
+    "no": 8,
+    "chinese": "女士",
+    "pinyin": "nǚshì",
+    "vi": "quý cô; bà",
+    "en": "Ms.; lady"
+  },
+  {
+    "lesson": 13,
+    "no": 9,
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "vi": "mời; xin; vui lòng",
+    "en": "please; to invite"
+  },
+  {
+    "lesson": 13,
+    "no": 10,
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "vi": "ngồi",
+    "en": "to sit"
+  },
+  {
+    "lesson": 13,
+    "no": 11,
+    "chinese": "给",
+    "pinyin": "gěi",
+    "vi": "cho; đưa cho",
+    "en": "to give; for"
+  },
+  {
+    "lesson": 13,
+    "no": 12,
+    "chinese": "杯",
+    "pinyin": "bēi",
+    "vi": "cốc; ly (lượng từ)",
+    "en": "cup; glass; measure word"
+  },
+  {
+    "lesson": 13,
+    "no": 13,
+    "chinese": "要",
+    "pinyin": "yào",
+    "vi": "muốn; cần",
+    "en": "to want; to need"
+  },
+  {
+    "lesson": 13,
+    "no": 14,
+    "chinese": "早饭",
+    "pinyin": "zǎofàn",
+    "vi": "bữa sáng",
+    "en": "breakfast"
+  },
+  {
+    "lesson": 13,
+    "no": 15,
+    "chinese": "这个",
+    "pinyin": "zhège",
+    "vi": "cái này; người này",
+    "en": "this; this one"
+  },
+  {
+    "lesson": 13,
+    "no": 16,
+    "chinese": "面包",
+    "pinyin": "miànbāo",
+    "vi": "bánh mì",
+    "en": "bread"
+  },
+  {
+    "lesson": 13,
+    "no": 17,
+    "chinese": "鸡蛋",
+    "pinyin": "jīdàn",
+    "vi": "trứng gà",
+    "en": "egg"
+  },
+  {
+    "lesson": 13,
+    "no": 18,
+    "chinese": "先生",
+    "pinyin": "xiānsheng",
+    "vi": "ông; ngài",
+    "en": "Mr.; gentleman"
+  },
+  {
+    "lesson": 13,
+    "no": 19,
+    "chinese": "一半",
+    "pinyin": "yíbàn",
+    "vi": "một nửa",
+    "en": "half"
+  },
+  {
+    "lesson": 13,
+    "no": 20,
+    "chinese": "茶",
+    "pinyin": "chá",
+    "vi": "trà",
+    "en": "tea"
+  },
+  {
+    "lesson": 14,
+    "no": 1,
+    "chinese": "上",
+    "pinyin": "shàng",
+    "vi": "lên; trên",
+    "en": "to go up; on; above"
+  },
+  {
+    "lesson": 14,
+    "no": 2,
+    "chinese": "火车",
+    "pinyin": "huǒchē",
+    "vi": "tàu hỏa; xe lửa",
+    "en": "train"
+  },
+  {
+    "lesson": 14,
+    "no": 3,
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "vi": "buổi trưa",
+    "en": "noon; midday"
+  },
+  {
+    "lesson": 14,
+    "no": 4,
+    "chinese": "开",
+    "pinyin": "kāi",
+    "vi": "mở; lái; khởi hành",
+    "en": "to open; to drive; to depart"
+  },
+  {
+    "lesson": 14,
+    "no": 5,
+    "chinese": "有些",
+    "pinyin": "yǒuxiē",
+    "vi": "một số; một vài",
+    "en": "some"
+  },
+  {
+    "lesson": 14,
+    "no": 6,
+    "chinese": "有的",
+    "pinyin": "yǒude",
+    "vi": "có người; có cái; một số",
+    "en": "some; some of them"
+  },
+  {
+    "lesson": 14,
+    "no": 7,
+    "chinese": "了",
+    "pinyin": "le",
+    "vi": "rồi; trợ từ chỉ sự thay đổi/hoàn thành",
+    "en": "particle indicating change/completion"
+  },
+  {
+    "lesson": 14,
+    "no": 8,
+    "chinese": "写",
+    "pinyin": "xiě",
+    "vi": "viết",
+    "en": "to write"
+  },
+  {
+    "lesson": 14,
+    "no": 9,
+    "chinese": "都",
+    "pinyin": "dōu",
+    "vi": "đều; tất cả",
+    "en": "all; both"
+  },
+  {
+    "lesson": 14,
+    "no": 10,
+    "chinese": "听见",
+    "pinyin": "tīngjiàn",
+    "vi": "nghe thấy",
+    "en": "to hear"
+  },
+  {
+    "lesson": 14,
+    "no": 11,
+    "chinese": "不要",
+    "pinyin": "búyào",
+    "vi": "đừng; không được",
+    "en": "don't; must not"
+  },
+  {
+    "lesson": 14,
+    "no": 12,
+    "chinese": "说话",
+    "pinyin": "shuōhuà",
+    "vi": "nói chuyện",
+    "en": "to speak; to talk"
+  },
+  {
+    "lesson": 14,
+    "no": 13,
+    "chinese": "听",
+    "pinyin": "tīng",
+    "vi": "nghe",
+    "en": "to listen; to hear"
+  },
+  {
+    "lesson": 14,
+    "no": 14,
+    "chinese": "哪些",
+    "pinyin": "nǎxiē",
+    "vi": "những cái nào; những ai",
+    "en": "which ones"
+  },
+  {
+    "lesson": 14,
+    "no": 15,
+    "chinese": "字",
+    "pinyin": "zì",
+    "vi": "chữ; chữ Hán",
+    "en": "character; written word"
+  },
+  {
+    "lesson": 14,
+    "no": 16,
+    "chinese": "明年",
+    "pinyin": "míngnián",
+    "vi": "năm sau",
+    "en": "next year"
+  },
+  {
+    "lesson": 14,
+    "no": 17,
+    "chinese": "上",
+    "pinyin": "shàng",
+    "vi": "trước; vừa qua",
+    "en": "previous; last"
+  },
+  {
+    "lesson": 14,
+    "no": 18,
+    "chinese": "中学",
+    "pinyin": "zhōngxué",
+    "vi": "trường trung học",
+    "en": "middle/secondary school"
+  },
+  {
+    "lesson": 14,
+    "no": 19,
+    "chinese": "小学",
+    "pinyin": "xiǎoxué",
+    "vi": "trường tiểu học",
+    "en": "primary school"
+  },
+  {
+    "lesson": 14,
+    "no": 20,
+    "chinese": "中学生",
+    "pinyin": "zhōngxuéshēng",
+    "vi": "học sinh trung học",
+    "en": "middle/secondary school student"
+  },
+  {
+    "lesson": 14,
+    "no": 21,
+    "chinese": "小学生",
+    "pinyin": "xiǎoxuéshēng",
+    "vi": "học sinh tiểu học",
+    "en": "primary school student"
+  },
+  {
+    "lesson": 14,
+    "no": 22,
+    "chinese": "上学",
+    "pinyin": "shàngxué",
+    "vi": "đi học",
+    "en": "to go to school"
+  },
+  {
+    "lesson": 14,
+    "no": 23,
+    "chinese": "他们",
+    "pinyin": "tāmen",
+    "vi": "họ (nam hoặc hỗn hợp)",
+    "en": "they; them"
+  },
+  {
+    "lesson": 14,
+    "no": 24,
+    "chinese": "她们",
+    "pinyin": "tāmen",
+    "vi": "họ (nữ)",
+    "en": "they; them (females)"
+  },
+  {
+    "lesson": 14,
+    "no": 25,
+    "chinese": "它们",
+    "pinyin": "tāmen",
+    "vi": "chúng; chúng nó (đồ vật/động vật)",
+    "en": "they; them (things/animals)"
+  },
+  {
+    "lesson": 14,
+    "no": 26,
+    "chinese": "晚",
+    "pinyin": "wǎn",
+    "vi": "muộn; trễ",
+    "en": "late"
+  },
+  {
+    "lesson": 15,
+    "no": 1,
+    "chinese": "爱",
+    "pinyin": "ài",
+    "vi": "yêu; thích",
+    "en": "to love"
+  },
+  {
+    "lesson": 15,
+    "no": 2,
+    "chinese": "哪个",
+    "pinyin": "nǎge",
+    "vi": "cái nào; người nào",
+    "en": "which one"
+  },
+  {
+    "lesson": 15,
+    "no": 3,
+    "chinese": "去年",
+    "pinyin": "qùnián",
+    "vi": "năm ngoái",
+    "en": "last year"
+  },
+  {
+    "lesson": 15,
+    "no": 4,
+    "chinese": "男朋友",
+    "pinyin": "nánpéngyou",
+    "vi": "bạn trai",
+    "en": "boyfriend"
+  },
+  {
+    "lesson": 15,
+    "no": 5,
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "vi": "mấy; bao nhiêu",
+    "en": "how many"
+  },
+  {
+    "lesson": 15,
+    "no": 6,
+    "chinese": "年",
+    "pinyin": "nián",
+    "vi": "năm",
+    "en": "year"
+  },
+  {
+    "lesson": 15,
+    "no": 7,
+    "chinese": "好玩儿",
+    "pinyin": "hǎowánr",
+    "vi": "vui; thú vị",
+    "en": "fun; interesting"
+  },
+  {
+    "lesson": 15,
+    "no": 8,
+    "chinese": "飞机",
+    "pinyin": "fēijī",
+    "vi": "máy bay",
+    "en": "airplane; plane"
+  },
+  {
+    "lesson": 15,
+    "no": 9,
+    "chinese": "要",
+    "pinyin": "yào",
+    "vi": "muốn; cần; sẽ",
+    "en": "to want; to need; will"
+  },
+  {
+    "lesson": 15,
+    "no": 10,
+    "chinese": "小时",
+    "pinyin": "xiǎoshí",
+    "vi": "giờ; tiếng đồng hồ",
+    "en": "hour"
+  },
+  {
+    "lesson": 15,
+    "no": 11,
+    "chinese": "家人",
+    "pinyin": "jiārén",
+    "vi": "người nhà; thành viên gia đình",
+    "en": "family; family member"
+  },
+  {
+    "lesson": 15,
+    "no": 12,
+    "chinese": "时间",
+    "pinyin": "shíjiān",
+    "vi": "thời gian",
+    "en": "time"
+  },
+  {
+    "lesson": 15,
+    "no": 13,
+    "chinese": "机场",
+    "pinyin": "jīchǎng",
+    "vi": "sân bay",
+    "en": "airport"
+  },
+  {
+    "lesson": 15,
+    "no": 14,
+    "chinese": "接",
+    "pinyin": "jiē",
+    "vi": "đón; tiếp; nhận",
+    "en": "to pick up; to receive"
+  },
+  {
+    "lesson": 15,
+    "no": 15,
+    "chinese": "住",
+    "pinyin": "zhù",
+    "vi": "sống; ở; cư trú",
+    "en": "to live; to stay"
+  },
+  {
+    "lesson": 15,
+    "no": 16,
+    "chinese": "早",
+    "pinyin": "zǎo",
+    "vi": "sớm",
+    "en": "early"
+  },
+  {
+    "lesson": 15,
+    "no": 17,
+    "chinese": "那",
+    "pinyin": "nà",
+    "vi": "kia; đó",
+    "en": "that"
+  }
+]
